@@ -1,6 +1,6 @@
 export interface Photo {
     id?: string;
-    photourl: string;
+    photoUrl: string;
     likes?: number;
     commments?: string[];
     description?: string
